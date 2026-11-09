@@ -1,3 +1,4 @@
+import utils.session
 import re
 
 def sort_lists_alphabetically(lines):
